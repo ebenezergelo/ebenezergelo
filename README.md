@@ -3,9 +3,9 @@ I'm a Machine Learning Engineer, and I'm a passionate advocate for the transform
 
 - Check out my [website](https://www.ebenezergelo.me) to learn more about me.
 - Explore my [blog](https://www.ebenezergelo.me/blog) where I share insights and learnings.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/ebenezer-gelo-a60329157/).
-- Get my recomended [Notion Template](https://www.notionsecondbrain.com/) for productivity.
-- Download my [Resume](https://github.com/ebenezergelo/ebenezergelo/blob/main/Ebenezer%20Gelo%20-%20Resume.pdf).
+- Stay updated with my journey on [linkedin](https://www.linkedin.com/in/ebenezer-gelo-a60329157/).
+- Get my recomended [notion template](https://www.notionsecondbrain.com/) for productivity.
+- Download my [resume](https://github.com/ebenezergelo/ebenezergelo/blob/main/Ebenezer%20Gelo%20-%20Resume.pdf).
 
 ## 📦 Toolbox
 
