@@ -1,5 +1,5 @@
 ### Hey, I'm Ebenezer👋🏾
-I'm a Machine Learning Engineer, and I'm a passionate advocate for the transformative power of data-driven insights, eager to contribute my skills to projects that demand the utmost dedication and technical prowess.
+A results-driven Machine Learning Engineer with expertise in developing end-to-end machine learning solutions. Skilled in implementing algorithms, deep learning frameworks, and deploying models to production. Strong collaborator with effective communication skills. Committed to delivering impactful solutions across diverse domains.
 
 - Check out my [website](https://www.ebenezergelo.me) to learn more about me.
 - Explore my [blog](https://www.ebenezergelo.me/blog) where I share insights and learnings.
@@ -20,3 +20,12 @@ I'm a Machine Learning Engineer, and I'm a passionate advocate for the transform
 **MLOps:** `SageMaker` `Kubeflow` `Airflow` `MLFlow` `Vertex AI`
 
 **Version Control:** `Git` `GitLab` 
+
+## ✨ Fun Facts 
+- I grew up in Awassa, a small town in Ethiopia.
+- League of Legends is my favorite game.
+- I've been using Mac for 10 years (I'm never switching to Windows).
+
+## 📫 Contact
+
+ For a quick response, you can reach me on [email](mailto:ebenezergelo@gmail.com) or [linkedin](https://www.linkedin.com/in/ebenezer-gelo-a60329157/). 
