@@ -1,5 +1,5 @@
 ### Hey, I'm Ebenezer👋🏾
-A results-driven Machine Learning Engineer with expertise in developing end-to-end machine learning solutions. Skilled in implementing algorithms, and deep learning frameworks, and deploying models to production. Strong collaborator with effective communication skills. Committed to delivering impactful solutions across diverse domains.
+A results-driven Machine Learning Engineer with expertise in developing end-to-end machine learning solutions. Skilled in implementing algorithms, and deep learning frameworks, and deploying models to production. Strong collaborator with effective communication skills. Committed to delivering impactful solutions across diverse domains. My expertise includes reinforcement learning, natural language processing, and predictive analytics.
 
 - Check out my [website](https://www.ebenezergelo.me) to learn more about me.
 - Explore my [blog](https://www.ebenezergelo.me/blog) where I share insights and learnings.
