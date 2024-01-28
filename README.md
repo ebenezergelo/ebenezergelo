@@ -25,7 +25,7 @@ A results-driven Machine Learning Engineer with expertise in developing end-to-e
 - I grew up in Awassa, a small town in Ethiopia.
 - League of Legends is my favorite game.
 - I've been using Mac for 10 years (I'm never switching to Windows).
-- Tom and Jerry is goated cartoon show.
+- Tom and Jerry is a goated cartoon show.
 
 ## 📫 Contact
 
