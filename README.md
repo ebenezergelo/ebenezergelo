@@ -9,7 +9,7 @@ A results-driven Machine Learning Engineer with expertise in developing end-to-e
 
 ## 📦 Toolbox
 
-**Programming:** `Python` `Java` `C/C++` `Scala` `JavaScript`
+**Programming:** `Python` `Java` `C/C++` `Scala` `JavaScript` `Julia`
 
 **ML/DL:** `PyTorch` `TensorFlow` `Sci-Kit Learn`  
 
