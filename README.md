@@ -19,8 +19,6 @@ A results-driven Machine Learning Engineer with expertise in developing end-to-e
 
 **MLOps:** `SageMaker` `Kubeflow` `Airflow` `MLFlow` `Vertex AI`
 
-**Version Control:** `Git` `GitLab` 
-
 ## ✨ Fun Facts 
 - I grew up in Awassa, a small town in Ethiopia.
 - League of Legends is my favorite game.
