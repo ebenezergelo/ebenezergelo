@@ -15,7 +15,7 @@ A results-driven Machine Learning Engineer with expertise in developing end-to-e
 
 **Cloud:** `Google Cloud Platform` `Amazon Web Service` `Microsoft Azure`  
 
-**Data:** `MySQL` `MangoDB` `BigQuery` `PySpark`
+**Data:** `MySQL` `MangoDB` `Firebase`
 
 **MLOps:** `SageMaker` `Kubeflow` `Airflow` `MLFlow` `Vertex AI`
 
