@@ -6,6 +6,7 @@ A results-driven Machine Learning Engineer with expertise in developing end-to-e
 - Stay updated with my journey on [linkedin](https://www.linkedin.com/in/ebenezer-gelo-a60329157/).
 - Get my recommended [notion template](https://www.notionsecondbrain.com/) for productivity.
 - Download my [resume](https://github.com/ebenezergelo/ebenezergelo/blob/main/Ebenezer%20Gelo%20-%20Resume.pdf).
+  
 
 ## 📦 Toolbox
 
@@ -19,12 +20,6 @@ A results-driven Machine Learning Engineer with expertise in developing end-to-e
 
 **MLOps:** `SageMaker` `Kubeflow` `Airflow` `MLFlow` `Vertex AI`
 
-## ✨ Fun Facts 
-- I grew up in Hawassa, a small city in Ethiopia.
-- League of Legends is my favorite game.
-- I've been using Mac for 10 years (I'm never switching to Windows).
-- Tom and Jerry is a goated cartoon show.
 
-## 📫 Contact
-
- For a quick response, you can reach me on [email](mailto:ebenezergelo@gmail.com) or [linkedin](https://www.linkedin.com/in/ebenezer-gelo-a60329157/). 
+## ⚙️ Dev Card
+<a href="https://app.daily.dev/ebenezergelo"><img src="https://api.daily.dev/devcards/3dd0dc326cf24ede998d637f43902824.png?r=5ww" width="400" alt="Ebenezer Gelo's Dev Card"/></a>
