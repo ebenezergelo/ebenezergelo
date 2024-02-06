@@ -22,4 +22,4 @@ A results-driven Machine Learning Engineer with expertise in developing end-to-e
 
 
 ## ⚙️ Dev Card
-<a href="https://app.daily.dev/ebenezergelo"><img src="https://api.daily.dev/devcards/3dd0dc326cf24ede998d637f43902824.png?r=5qf" width="250" alt="Ebenezer Gelo's Dev Card"/></a>
+<a href="https://app.daily.dev/ebenezergelo"><img src="https://github.com/ebenezergelo/ebenezergelo/blob/main/devcard.svg" width="250" alt="Ebenezer Gelo's Dev Card"/></a>
