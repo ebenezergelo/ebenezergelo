@@ -9,7 +9,8 @@ A results-driven Machine Learning Engineer with expertise in developing end-to-e
   
 
 ## 📦 Toolbox
-Here are some tools from my tech stack.
+Here are **some** tools from my tech stack:
+
 **Programming:** `Python` `Java` `C/C++` `Scala` `JavaScript` `Julia`
 
 **ML/DL:** `PyTorch` `TensorFlow` `Sci-Kit Learn`  
