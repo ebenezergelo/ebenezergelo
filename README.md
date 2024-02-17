@@ -23,4 +23,4 @@ Here are **some** tools from my tech stack:
 
 
 ## ⚙️ Dev Card
-<a href="https://app.daily.dev/"><img src="https://github.com/ebenezergelo/ebenezergelo/blob/main/devcard.svg" width="250" alt="Ebenezer Gelo's Dev Card"/></a>
+<img src="https://github.com/ebenezergelo/ebenezergelo/blob/main/devcard.svg" width="250" alt="Ebenezer Gelo's Dev Card"/>
