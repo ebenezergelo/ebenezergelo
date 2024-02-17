@@ -1,9 +1,11 @@
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ### Hey, I'm Ebenezer👋🏾
-A results-driven Machine Learning Engineer with expertise in developing end-to-end machine learning solutions. Skilled in implementing algorithms, and deep learning frameworks, and deploying models to production. My interests include reinforcement learning (RL), natural language processing (NLP), and computer vision (CV).
-
 - Check out my [website](https://www.ebenezergelo.me) to learn more about me.
 - Explore my [blog](https://www.ebenezergelo.me) where I share insights and learnings.
-- Stay updated with my journey on [linkedin](https://www.linkedin.com/in/ebenezer-gelo-a60329157/).
+- Stay updated with my journey on [linkedin](https://www.linkedin.com/in/ebenezergelo/).
 - Get my recommended [notion template](https://www.notionsecondbrain.com/) for productivity.
 - Download my [resume](https://github.com/ebenezergelo/ebenezergelo/blob/main/Ebenezer%20Gelo%20-%20Resume.pdf).
   
@@ -21,6 +23,11 @@ Here are **some** tools from my tech stack:
 
 **MLOps:** `SageMaker` `Kubeflow` `Airflow` `MLFlow` `Vertex AI`
 
+ </td>
+    <td valign="top" width="50%">
 
 ## ⚙️ Dev Card
-<img src="https://github.com/ebenezergelo/ebenezergelo/blob/main/devcard.svg" width="250" alt="Ebenezer Gelo's Dev Card"/>
+<img src="https://github.com/ebenezergelo/ebenezergelo/blob/main/devcard.svg" width="400" alt="Ebenezer Gelo's Dev Card"/>
+</td>
+  </tr>
+</table>
