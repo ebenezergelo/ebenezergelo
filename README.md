@@ -17,6 +17,3 @@ Here are **some** tools from my tech stack:
 **Data:** `MySQL` `MangoDB` `Firebase`
 
 **MLOps:** `SageMaker` `Kubeflow` `Airflow` `MLFlow` `Vertex AI`
-
-## ⚙️ Dev Card
-<img src="https://github.com/ebenezergelo/ebenezergelo/blob/main/devcard.svg" width="300" alt="Ebenezer Gelo's Dev Card"/>
