@@ -3,7 +3,7 @@
  - Explore my [blog](https://www.ebenezergelo.me/posts) where I share insights and learnings.
  - Stay updated with my journey on [linkedin](https://www.linkedin.com/in/ebenezergelo/).
  - Get my recommended [notion template](https://www.notionsecondbrain.com/) for productivity.
- - Download my [resume](https://github.com/ebenezergelo/ebenezergelo/blob/main/Ebenezer%20Gelo%20-%20Resume.pdf).
+ - Download my [resume](https://www.ebenezergelo.me/resume/Ebenezer%20Gelo%20-%20Resume.pdf).
    
 ### 📦 Toolbox
  Here are **some** tools from my tech stack:
