@@ -1,1 +1,31 @@
-<a href="https://app.daily.dev/ebenezergelo"><img src="https://api.daily.dev/devcards/v2/AMn4JEmIAK0tS3upQu6tN.png?type=wide&r=el6" width="652" alt="Ebenezer Gelo's Dev Card"/></a>
+# 👋 Hi, I’m Ebenezer Gelo
+
+**Data Scientist · AI Researcher · Solopreneur · Coffee‑Fueled Code Conjurer**
+
+Passionate about exploring the intersection of technology and innovation to drive meaningful advancements in ML and AI.
+
+---
+
+## ⚙️ Tools I Use
+
+### Languages & Frameworks
+- `python` · `r` · `julia` · `java` · `rust` · `javascript`
+- `pandas` · `numpy` · `scikit-learn` · `tensorflow` · `pytorch`
+
+### Data & Storage
+- `mysql` · `mongodb` · `redis` · `sqlite` · `bigquery`
+
+### MLOps & Infrastructure
+- `git` · `github` · `docker` · `kubernetes`
+- `mlflow` · `dvc` · `apache-beam`
+
+### Productivity & Dev Tools
+- `zed` · `jupyterlab` · `notion` · `slack` · `obsidian` · `zotero`
+
+---
+
+## Let’s Connect
+
+-  Website: [ebenezergelo.works](https://ebenezergelo.works)  
+-  GitHub: [github.com/ebenezergelo](https://github.com/ebenezergelo)  
+-  LinkedIn: [ebenezergelo](https://za.linkedin.com/in/ebenezergelo)  
