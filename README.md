@@ -2,11 +2,11 @@
 
 **Data Scientist · AI Researcher · Solopreneur · Coffee‑Fueled Code Conjurer**
 
-Passionate about exploring the intersection of technology and innovation to drive meaningful advancements in ML and AI.
+Passionate about exploring the intersection of technology and innovation to drive meaningful advancements in AI Safety.
 
 ---
 
-## ⚙️ Tools I Use
+## **Some** of the tools I use...
 
 ### Languages & Frameworks
 - `python` · `r` · `julia` · `java` · `rust` · `javascript`
