@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ebenezer Gelo
+## 👋🏽 Hi, I’m Ebenezer Gelo
 
 **Data Scientist · AI Researcher · Solopreneur · Coffee‑Fueled Code Conjurer**
 
@@ -6,25 +6,25 @@ Passionate about exploring the intersection of technology and innovation to driv
 
 ---
 
-## **Some** of the tools I use...
+### **Some** of the tools I use...
 
-### Languages & Frameworks
+#### Languages & Frameworks
 - `python` · `r` · `julia` · `java` · `rust` · `javascript`
 - `pandas` · `numpy` · `scikit-learn` · `tensorflow` · `pytorch`
 
-### Data & Storage
+#### Data & Storage
 - `mysql` · `mongodb` · `redis` · `sqlite` · `bigquery`
 
-### MLOps & Infrastructure
+#### MLOps & Infrastructure
 - `git` · `github` · `docker` · `kubernetes`
 - `mlflow` · `dvc` · `apache-beam`
 
-### Productivity & Dev Tools
+#### Productivity & Dev Tools
 - `zed` · `jupyterlab` · `notion` · `slack` · `obsidian` · `zotero`
 
 ---
 
-## Let’s Connect
+### Let’s Connect
 
 -  Website: [ebenezergelo.works](https://ebenezergelo.works)  
 -  GitHub: [github.com/ebenezergelo](https://github.com/ebenezergelo)  
