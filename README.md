@@ -4,26 +4,6 @@
 
 Passionate about exploring the intersection of technology and innovation to drive meaningful advancements in AI Safety.
 
----
-
-### **Some** of the tools I use...
-
-#### Languages & Frameworks
-- `python` · `r` · `julia` · `java` · `rust` · `javascript`
-- `pandas` · `numpy` · `scikit-learn` · `tensorflow` · `pytorch`
-
-#### Data & Storage
-- `mysql` · `mongodb` · `redis` · `sqlite` · `bigquery`
-
-#### MLOps & Infrastructure
-- `git` · `github` · `docker` · `kubernetes`
-- `mlflow` · `dvc` · `apache-beam`
-
-#### Productivity & Dev Tools
-- `zed` · `jupyterlab` · `notion` · `slack` · `obsidian` · `zotero`
-
----
-
 ### Let’s Connect
 
 -  Website: [ebenezergelo.works](https://ebenezergelo.works)  
