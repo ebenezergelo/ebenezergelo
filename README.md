@@ -7,5 +7,4 @@ Passionate about exploring the intersection of technology and innovation to driv
 ### Let’s Connect
 
 -  Website: [ebenezergelo.works](https://ebenezergelo.works)  
--  GitHub: [github.com/ebenezergelo](https://github.com/ebenezergelo)  
 -  LinkedIn: [ebenezergelo](https://za.linkedin.com/in/ebenezergelo)  
