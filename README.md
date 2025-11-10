@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I’m Ebenezer Gelo
+## Hi, I’m Ebenezer 👋🏽
 
 ML engineer, AI safety researcher and survivor of a tragic high school romance with Delphi. That was my first programming language, and I hated it so much I briefly considered a career in anything else, including goat farming. But I stuck with computer science, learned enough languages to undo the trauma, and somewhere along the way fell in love with AI/ML. Now I build agents that make fewer bad decisions than teenage me debugging Delphi at 2 a.m.
 
