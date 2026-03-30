@@ -1,6 +1,6 @@
 ## Hi, I’m Ebenezer 👋🏽
 
-Engineer, AI Researcher, Solopreneur and a coffee-fueled code conjurer. I love building things and helping people.
+Engineer working on AI, with experience in reinforcement learning. I build things and test what works.
 
 ### Let’s Connect
 
