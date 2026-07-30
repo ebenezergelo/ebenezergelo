@@ -4,6 +4,6 @@ Engineer working on AI, with experience in reinforcement learning. I build thing
 
 ### Let’s Connect
 
--  Website: [ebenezergelo.works](https://ebenezergelo.works)  
+-  Website: [ebenezergelo.work](https://ebenezergelo.work)  
 -  LinkedIn: [ebenezergelo](https://za.linkedin.com/in/ebenezergelo)  
   
